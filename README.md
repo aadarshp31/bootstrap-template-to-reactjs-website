@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# bootstrap-template-to-reactjs-website
+This project is basically a conversion if an HTML &amp; Bootstrap based template website to a ReactJs &amp; Bootstrap based Website.
+>>>>>>> 5a6bd11a192d547ed16fb9fceb7a02126a5eb39b
