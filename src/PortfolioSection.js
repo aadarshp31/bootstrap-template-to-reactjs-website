@@ -16,12 +16,11 @@ const PortfolioSection = () => {
             {/* <!-- Portfolio Grid Items--> */}
             <div className="row">
                 <Card />
-                <Card imgSrc="assets/img/portfolio/cake.png" />
-                <Card imgSrc="assets/img/portfolio/circus.png" />
-                <Card imgSrc="assets/img/portfolio/game.png" />
-                <Card imgSrc="assets/img/portfolio/safe.png" />
-                <Card imgSrc="assets/img/portfolio/submarine.png" />
-                <Card imgSrc="assets/img/portfolio/safe.png" />
+                <Card imgSrc="assets/img/portfolio/cake.png" modalNumber="2" />
+                <Card imgSrc="assets/img/portfolio/circus.png" modalNumber="3" />
+                <Card imgSrc="assets/img/portfolio/game.png" modalNumber="4" />
+                <Card imgSrc="assets/img/portfolio/safe.png" modalNumber="5" />
+                <Card imgSrc="assets/img/portfolio/submarine.png" modalNumber="6" />
             </div>
         </div>
     </section>
